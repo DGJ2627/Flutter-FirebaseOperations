@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "888397055893",
+    "project_id": "flutter-firebase-operati-b9101",
+    "storage_bucket": "flutter-firebase-operati-b9101.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888397055893:android:a078cd5c4442969556189c",
+        "android_client_info": {
+          "package_name": "com.example.firebasae_push_notification_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888397055893-k8l5hr7urckhb8f6unf94n26h03cveh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCFnu52KkQ0b6CeNaMyOxo6OyMm8CsHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888397055893-k8l5hr7urckhb8f6unf94n26h03cveh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888397055893-1r1skau8qs7s0kie88jgipameeu6cmh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasePushNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888397055893:android:658f89cde0d874f856189c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888397055893-ggc0b17ekfbd3ilf324db268or0bb9sk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_push_notification",
+            "certificate_hash": "f19bbf6927bdff9bdda84e5fe528ba63a0ae120e"
+          }
+        },
+        {
+          "client_id": "888397055893-j5th4grk2g79ib9ihjm4kd0uc6kohu72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_push_notification",
+            "certificate_hash": "1ee75443dfe0ba67c15b13287818d3266192590f"
+          }
+        },
+        {
+          "client_id": "888397055893-k8l5hr7urckhb8f6unf94n26h03cveh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFCFnu52KkQ0b6CeNaMyOxo6OyMm8CsHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888397055893-k8l5hr7urckhb8f6unf94n26h03cveh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888397055893-1r1skau8qs7s0kie88jgipameeu6cmh5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebasePushNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
